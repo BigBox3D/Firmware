@@ -1,4 +1,4 @@
-Precompiled firmware .hex files.
+Precompiled BigBox firmware .hex files.
 
 Flash over USB. 
 
