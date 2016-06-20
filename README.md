@@ -1,6 +1,6 @@
-# Precompiled BigBox firmware .hex files.
+# Precompiled BigBox firmware .hex files
 
-## Flash over USB. 
+## Flash over USB
 
 Recommended to use XLoader | http://russemotto.com/xloader/
 
