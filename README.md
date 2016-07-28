@@ -28,7 +28,7 @@ To set the Steps-Per-MM via the LCD, press the LCD knob and navigate to Control 
 
   * 0.9° Stepper Motors
     Non-Titan Hybrid Extruders using the larger 0.9° Stepper Motors set the Steps-Per-MM to 304.
-    Titan Hybrid Extruders using the larger 0.9° Stepper Motors set the Steps-Per-MM to 852.
+    Titan Hybrid Extruders using the larger 0.9° Stepper Motors set the Steps-Per-MM to 835.
 
   * 1.8° Stepper Motors
     Non-Titan Hybrid Extruders using the smaller 1.8° Stepper Motors set the Steps-Per-MM to 152.
